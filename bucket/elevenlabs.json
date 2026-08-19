@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0-alpha.2",
+  "description": "CLI for the ElevenLabs API Documentation",
+  "homepage": "https://github.com/elevenlabs/cli",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/elevenlabs/cli/releases/download/v1.0.0-alpha.2/elevenlabs-cli-x86_64-pc-windows-msvc.zip",
+      "hash": "5877f1263b9bbb4e73fea8b3f1233cb282885639a4957a86ef5732ec094e271a",
+      "bin": "elevenlabs.exe"
+    }
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/elevenlabs/cli/releases/download/v$version/elevenlabs-cli-x86_64-pc-windows-msvc.zip"
+      }
+    }
+  },
+  "checkver": {
+    "github": "https://github.com/elevenlabs/cli"
+  }
+}
