@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/elevenlabs/cli/releases/download/v1.5.1/elevenlabs-cli-x86_64-pc-windows-msvc.zip",
-      "hash": "8232f466899d3ddec8a7e38a34316e2d3036b2dce8d735707784295957a59554",
+      "hash": "b30fc1fbcbe05efeb2d989f13bf4dca66a479e80e37961993093198d45d186a8",
       "bin": "elevenlabs.exe"
     }
   },
